@@ -20,7 +20,7 @@ Sou graduado em Sistemas de Informação pela PUC-MG e sempre gostei da área de
 <img align="center" alt="JavaScript"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align="center" alt="ReactJs"src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img align="center" alt="NextJs"src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)">
-<img align="center" alt="Tailwind_CSS"src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=whit">
+<img align="center" alt="Tailwind_CSS"src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img align="center" alt="Bootstrap"src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img align="center" alt="Sytled-Components"src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 <img align="center" alt="Jest"src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
