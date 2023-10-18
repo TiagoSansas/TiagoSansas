@@ -1,3 +1,5 @@
+<div style="background-color: rgb(203 213 225)">
+
 ### Olá sou Tiago Souza 👨‍💻
 
 ## Um pouco sobre mim
@@ -9,7 +11,7 @@ Sou graduado em Sistemas de Informação pela PUC-MG e sempre gostei da área de
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagotsouza/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@TiagoETSouza)
 
-![Tiago GitHub stats ](https://github-readme-stats.vercel.app/api?username=tiagosansas&show_icons=true&theme=trasparent&theme=transparent&card_width=520)
+![Tiago GitHub stats ](https://github-readme-stats.vercel.app/api?username=tiagosansas&show_icons=true&theme=dracula&card_width=520)
 
 ## Tecnologias que eu uso meu dia
 
@@ -32,3 +34,5 @@ Sou graduado em Sistemas de Informação pela PUC-MG e sempre gostei da área de
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosouza&layout=compact&theme=transparent&card_width=520)
+
+</div>
