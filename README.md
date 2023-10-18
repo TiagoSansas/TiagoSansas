@@ -1,4 +1,3 @@
-<div style="background-color: rgb(203 213 225)">
 
 ### Olá sou Tiago Souza 👨‍💻
 
@@ -35,4 +34,4 @@ Sou graduado em Sistemas de Informação pela PUC-MG e sempre gostei da área de
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosouza&layout=compact&theme=transparent&card_width=520)
 
-</div>
+
