@@ -12,7 +12,7 @@ Sou graduado em Sistemas de Informação pela PUC-MG e sempre gostei da área de
 
 ![Tiago GitHub stats ](https://github-readme-stats.vercel.app/api?username=tiagosansas&show_icons=true&theme=dracula&card_width=520)
 
-## Tecnologias que eu uso meu dia
+## Tecnologias que utilizo.
 
 <div style="display:inline_block"><br/>
   <img align="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
