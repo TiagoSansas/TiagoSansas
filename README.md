@@ -22,7 +22,7 @@ Sou graduado em Sistemas de Informação pela PUC-MG e sempre gostei da área de
 <img align="center" alt="NextJs"src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)">
 <img align="center" alt="Tailwind_CSS"src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img align="center" alt="Bootstrap"src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img align="center" alt="Sytled-Components"src="https://img.shields.io/badge/styled--components-7A807B?style=for-the-badge&logo=styled-components&logoColor=white">
+<img align="center" alt="Sytled-Components"src="https://img.shields.io/badge/styled--components-ED0EC1?style=for-the-badge&logo=styled-components&logoColor=white">
 <img align="center" alt="Jest"src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
 <img align="center" alt="Testing-Libary"src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white">
 <img align="center" alt="Cypress"src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
