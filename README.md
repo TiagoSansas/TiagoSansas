@@ -10,7 +10,7 @@ Sou graduado em Sistemas de Informação pela PUC-MG e sempre gostei da área de
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@TiagoETSouza)
 
 <div style="display:inline_block">
-<img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tiagosansas&show_icons=true&theme=transparent&hide_border=true&title_color=A29896&text_color=E2DFDF&icon_color=F11919">
+<img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tiagosansas&show_icons=true&theme=dark&hide_border=true&title_color=A29896&text_color=E2DFDF&icon_color=F11919">
 <img align="center" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosouza&layout=compact&theme=transparent&hide_border=true&title_color=A29896&text_color=E2DFDF">
 </div>
 
