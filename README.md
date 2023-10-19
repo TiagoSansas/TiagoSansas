@@ -1,4 +1,3 @@
-
 # Olá sou Tiago Souza 👨‍💻
 
 ## Um pouco sobre mim
@@ -10,8 +9,10 @@ Sou graduado em Sistemas de Informação pela PUC-MG e sempre gostei da área de
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagotsouza/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@TiagoETSouza)
 
-![Tiago GitHub stats ](https://github-readme-stats.vercel.app/api?username=tiagosansas&show_icons=true&theme=dracula&card_width=320&card_heigth=400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosouza&layout=compact&theme=transparent&card_width=320&card_heigth=400)
+<div style="display:inline_block">
+<img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tiagosansas&show_icons=true&theme=dracula&hide_border=true&title_color=A29896&text_color=E2DFDF&icon_color=F11919">
+<img align="center" width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosouza&layout=compact&theme=transparent&hide_border=true&title_color=A29896&text_color=E2DFDF&custom_title=Linguagem mais usada">
+</div>
 
 ## Tecnologias que utilizo.
 
@@ -31,7 +32,6 @@ Sou graduado em Sistemas de Informação pela PUC-MG e sempre gostei da área de
 <img align="center" alt="Git"src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 <br/>
 </div>
-
 
 
 
