@@ -11,6 +11,7 @@ Sou graduado em Sistemas de Informação pela PUC-MG e sempre gostei da área de
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@TiagoETSouza)
 
 ![Tiago GitHub stats ](https://github-readme-stats.vercel.app/api?username=tiagosansas&show_icons=true&theme=dracula&card_width=520)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosouza&layout=compact&theme=transparent&card_width=520)
 
 ## Tecnologias que utilizo.
 
@@ -32,6 +33,6 @@ Sou graduado em Sistemas de Informação pela PUC-MG e sempre gostei da área de
 </div>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosouza&layout=compact&theme=transparent&card_width=520)
+
 
 
