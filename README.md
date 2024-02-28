@@ -2,7 +2,13 @@
 
 ## Um pouco sobre mim
 
-Sou graduado em Sistemas de Informação pela PUC-MG e sempre gostei da área de tecnologia.Minha atuação é como Densenvolvedor Front.
+Sou graduado em Sistemas de Informação pela PUC-MG e sempre gostei da área de tecnologia. Estou, no momento, minha atuaçao é como Desenvolvedor Front-End e Back End, e meu foco é me desenvolver e aprender cada vez mais sobre esta área.
+
+Possuo conhecimento nas seguintes linguagens /tecnologias:
+
+- Java, SpringBoot, NodeJs HTML, CSS,JavaScript ,React, Angular, TypeScript
+
+Como profissional, sou comprometido com minhas atividades, trabalho bem em equipe e tenho rápido aprendizado. Gosto de ajudar meus colegas e de bons desafios que façam eu me desenvolver cada vez mais.
 
 #### Onde me encontrar
 
