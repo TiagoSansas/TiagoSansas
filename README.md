@@ -16,14 +16,17 @@ Como profissional, sou comprometido com minhas atividades, trabalho bem em equip
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@TiagoETSouza)
 
 <div style="display:inline_block">
-<img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tiagosansas&show_icons=true&theme=dark&hide_border=true&title_color=A29896&text_color=E2DFDF&icon_color=F11919">
-<img align="center" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosouza&layout=compact&theme=transparent&hide_border=true&title_color=A29896&text_color=E2DFDF">
+  
+<img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tiagosansas&theme=dracula&show_icons=true&hide_border=true&count_private=true">
+<img align="center" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosansas&theme=dracula&show_icons=true&hide_border=true&layout=compact">
 </div>
 
 ## Tecnologias que utilizo.
 
 <div style="display:inline_block"><br/>
-  <img align="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img align="center" alt="JAVA"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+ <img align="center" alt="Spring Boot"src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+ <img align="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="CSS3"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="JavaScript"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align="center" alt="ReactJs"src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
